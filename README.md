@@ -1,4 +1,6 @@
-## Hi there 👋
+## My name is Ben Bankston
+
+I am studying economics at Washington and Lee University. I am very interested in computer science and am excited to learn about software development and neuromorphic computing this semester!
 
 <!--
 **benbankston/benbankston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
