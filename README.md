@@ -2,7 +2,9 @@
 
 I am studying economics and data science at Washington and Lee University. 
 
-As part of the data science minor, I have learned to source, collect, and analyze data effectively and ethically. Check out my pinned projects to learn more about the classes and projects that have shaped my data science minor.
+I'm interested in the intersection between economics and computer science to create great, sustainable systems for businesses.
+
+I'm graduating from Washington and Lee as an eeconomics major and data science minor. As part of the data science minor, I have learned to source, collect, and analyze data effectively and ethically. Check out my pinned projects to learn more about the classes and projects that have shaped my data science minor.
 
 
 <!--
